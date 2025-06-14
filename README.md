@@ -7,8 +7,8 @@ I enjoy building real-world applications and continuously learning through hands
 
 ### 🚀 Technologies & Tools
 
-- 💻 Python, Django, Flask  
-- 🌐 HTML, CSS, Bootstrap  
+- 💻 Python, Django  
+- 🌐 HTML, CSS, Bootstrap, Tailwind CSS
 - 📊 Pandas, Matplotlib  
 - 🐍 Tkinter, Pygame  
 - 🔧 Git, GitHub, VS Code
@@ -33,7 +33,7 @@ I enjoy building real-world applications and continuously learning through hands
 
 ### 📫 Let's Connect!
 
-*LinkedIn coming soon...*
+*www.linkedin.com/in/selin-öztürk-193034366*
 
 ---
 
