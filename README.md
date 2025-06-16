@@ -25,7 +25,6 @@ I enjoy building real-world applications and continuously learning through hands
 
 ### 🛠️ Upcoming Projects
 
-- 📝 Full-stack blog platform with Django  
 - 🎬 Front-end app for movie & series suggestions  
 - 📈 Data analysis project (TBD)
 
