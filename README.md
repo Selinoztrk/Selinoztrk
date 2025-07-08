@@ -7,7 +7,7 @@ I enjoy building real-world applications and continuously learning through hands
 
 ### 🚀 Technologies & Tools
 
-- 💻 Python, Django  
+- 💻 Python, Django, JavaScript
 - 🌐 HTML, CSS, Bootstrap, Tailwind CSS
 - 📊 Pandas, Matplotlib  
 - 🐍 Tkinter, Pygame  
@@ -26,7 +26,7 @@ I enjoy building real-world applications and continuously learning through hands
 ### 🛠️ Upcoming Projects
 
 - 🎬 Front-end app for movie & series suggestions  
-- 📈 Data analysis project (TBD)
+- 🎓 Personal portfolio website
 
 ---
 
