@@ -7,7 +7,7 @@ I enjoy building real-world applications and continuously learning through hands
 
 ### 🚀 Technologies & Tools
 
-- 💻 Python, Django, JavaScript
+- 💻 Python, Django, JavaScript, React
 - 🌐 HTML, CSS, Bootstrap, Tailwind CSS
 - 📊 Pandas, Matplotlib  
 - 🐍 Tkinter, Pygame  
