@@ -1,25 +1,19 @@
 ### 👋 Hi there, I'm Selin Öztürk!
 
-I'm a self-taught web developer with a strong interest in Python, Django, and data-driven projects.  
-I enjoy building real-world applications and continuously learning through hands-on experience.
+I'm a self-taught Full-Stack Developer with a special passion for **front-end development**, especially **JavaScript** and **React**.  
+I love crafting **modern, responsive, and interactive interfaces** that users enjoy.  
+
+While front-end excites me the most, I'm also comfortable with **Python**, **Django**, and building **back-end systems**.  
+I enjoy **building real-world applications**, experimenting with new technologies, and continuously learning through hands-on projects.
 
 ---
 
-### 🚀 Technologies & Tools
+### 💻 Skills
 
-- 💻 Python, Django, JavaScript, React
+- 💻 Python, Django, JavaScript, React, Asp.Net, C#
 - 🌐 HTML, CSS, Bootstrap, Tailwind CSS
 - 📊 Pandas, Matplotlib  
-- 🐍 Tkinter, Pygame  
 - 🔧 Git, GitHub, VS Code
-
----
-
-### 📌 Featured Projects
-
-- 🛒 **E-Commerce Website** – Full-featured Django app with user accounts, cart, and admin panel  
-- 🎮 **Snake & Hangman Games** – Arcade-style games with sound effects and colorful UIs  
-- 📊 **Trendyol Product Analysis** – Web scraping, data cleaning, and visualization with pandas  
 
 ---
 
