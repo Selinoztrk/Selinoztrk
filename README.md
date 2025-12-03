@@ -13,7 +13,7 @@ I enjoy **building real-world applications**, experimenting with new technologie
 - 💻 Python, Django, JavaScript, React, Asp.Net, C#
 - 🌐 HTML, CSS, Bootstrap, Tailwind CSS
 - 📊 Pandas, Matplotlib  
-- 🔧 Git, GitHub, VS Code
+- 🔧 Git, GitHub, VS Code, Vercel
 
 ---
 
