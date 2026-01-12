@@ -19,8 +19,9 @@ I enjoy **building real-world applications**, experimenting with new technologie
 
 ### 🛠️ Upcoming Projects
 
-- 🎬 Front-end app for movie & series suggestions  
-- 🎓 Personal portfolio website
+- Booking / Reservation App
+- Finance Tracker
+- SaaS Landing
 
 ---
 
